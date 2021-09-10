@@ -1,1 +1,0 @@
-This project describes some basic emacs commands
