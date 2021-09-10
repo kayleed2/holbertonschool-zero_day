@@ -1,0 +1,1 @@
+This directory contains files that give basic information regarding git
